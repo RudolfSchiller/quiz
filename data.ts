@@ -7,8 +7,8 @@ namespace Quiz {
    export let questions= [
         {
             q: " Was ist Hannes Plakinger? ",
-            opt: ["ein geiler Ficker", "ein Niemand", "Blender Bender", "Naughty Boy"],
-            solution: [0, 2, 4]
+            o: ["ein geiler Ficker", "ein Niemand", "Blender Bender", "Naughty Boy"],
+            s: [0, 2, 3]
         }
     ];
 

@@ -2,7 +2,7 @@ namespace Quiz {
 
    console.log(questions[0].q);
    console.log("Possible Answers:")
-   console.log(questions[0].opt)
+   console.log(questions[0].o)
 
    let getAnswer = prompt("Plz insert all correct rows number!"); 
 
